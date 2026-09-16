@@ -17,11 +17,10 @@ I'm an IT student interested in building practical technology solutions that sol
 
 I'm currently building projects to improve my programming and problem-solving skills.
 
--  Smart Coaster Predictor
 - Stroke Prediction Project
-- network and wi-fi management system (netshield)
+- NetShield — Network & Wi-Fi Management System
 - student accommodation websites
-- school level subject helping tools(economics)
+- Economics Subject Help with AI
 -  Python Projects
 -  Hackathon Projects
 
